@@ -1,4 +1,12 @@
-```markdown
+Share
+
+
+You said:
+# NIT-TRICHY-ASSIGNMENT
+
+
+
+markdown
 # Project Collection
 
 **Group Number**: 3  
@@ -11,118 +19,106 @@
 ## Blog (Blogging Folder)
 
 **Problem Statement**: Build a Dynamic Blogging Platform  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2rZSqlf3KM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=Y2rZSqlf3KM))  
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
-   ```bash
+bash
    cd backend
    npm start
-   ```
-
+   
 2. Navigate to the `frontend` directory:
-   ```bash
+bash
    cd frontend
    npm run dev
-   ```
-
+   
 ---
 
 ## Bookmark Management (Bookmark Folder)
 
 **Problem Statement**: Create a Smart Bookmark Management System  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2rZSqlf3KM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link](https://www.youtube.com/watch?v=Y2rZSqlf3KM)  
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
-   ```bash
+bash
    cd backend
    npm start
-   ```
-
+   
 2. Navigate to the `frontend` directory:
-   ```bash
+bash
    cd frontend
    npm run dev
-   ```
-
+   
 ---
 
 ## Translation Tool
 
 **Problem Statement**: Build a Multi-Language Translation Tool  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 ### Steps to Run:
 1. Navigate to the `frontend` directory:
-   ```bash
+bash
    cd frontend
    npm run dev
-   ```
-
+   
 ---
 
 ## URL Shortener
 
 **Problem Statement**: Build a URL Shortening Service  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
-   ```bash
+bash
    cd backend
    npm start
-   ```
-
+   
 2. Navigate to the `frontend` directory:
-   ```bash
+bash
    cd frontend
    npm run dev
-   ```
-
+   
 ---
 
 ## Convolutional Neural Networks (CNN)
 
 **Problem Statement**: Classify Images Using CNN  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 ### Steps to Run:
 1. Navigate to the `cnn` folder and open `main.ipynb`:
-   ```bash
+bash
    folder cnn/main.ipynb
-   ```
-
+   
 ---
 
 ## Fraud Transaction Detection
 
 **Problem Statement**: Detect Fraudulent Transactions  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 ### Steps to Run:
 1. Navigate to the `Fraudulent-Transactions-Prediction` directory:
-   ```bash
+bash
    cd Fraudulent-Transactions-Prediction
-   ```
-
+   
 2. Run the Streamlit app:
-   ```bash
+bash
    streamlit run app.py
-   ```
-
+   
 ---
 
 ## House Price Prediction
 
 **Problem Statement**: Predict House Prices Using ML  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 ### Steps to Run:
 1. Run the Streamlit dashboard:
-   ```bash
+bash
    streamlit run dashboard.py
-   ```
-
+   
 ---
-```
