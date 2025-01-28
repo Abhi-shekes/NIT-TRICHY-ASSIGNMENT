@@ -1,7 +1,5 @@
-# NIT-TRICHY-ASSIGNMENT
-
-
 ```markdown
+# Project Collection
 
 **Group Number**: 3  
 **Group Members**:  
@@ -13,7 +11,7 @@
 ## Blog (Blogging Folder)
 
 **Problem Statement**: Build a Dynamic Blogging Platform  
-[YouTube Link](https://www.youtube.com/watch?v=Y2rZSqlf3KM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2rZSqlf3KM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
@@ -33,7 +31,7 @@
 ## Bookmark Management (Bookmark Folder)
 
 **Problem Statement**: Create a Smart Bookmark Management System  
-[YouTube Link](https://www.youtube.com/watch?v=Y2rZSqlf3KM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2rZSqlf3KM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
@@ -53,7 +51,7 @@
 ## Translation Tool
 
 **Problem Statement**: Build a Multi-Language Translation Tool  
-[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Navigate to the `frontend` directory:
@@ -67,7 +65,7 @@
 ## URL Shortener
 
 **Problem Statement**: Build a URL Shortening Service  
-[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
@@ -87,7 +85,7 @@
 ## Convolutional Neural Networks (CNN)
 
 **Problem Statement**: Classify Images Using CNN  
-[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Navigate to the `cnn` folder and open `main.ipynb`:
@@ -100,7 +98,7 @@
 ## Fraud Transaction Detection
 
 **Problem Statement**: Detect Fraudulent Transactions  
-[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Navigate to the `Fraudulent-Transactions-Prediction` directory:
@@ -118,7 +116,7 @@
 ## House Price Prediction
 
 **Problem Statement**: Predict House Prices Using ML  
-[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Steps to Run:
 1. Run the Streamlit dashboard:
