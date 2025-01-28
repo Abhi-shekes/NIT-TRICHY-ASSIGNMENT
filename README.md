@@ -1,11 +1,17 @@
 # NIT-TRICHY-ASSIGNMENT
 
+---
 
+**GROUP NUMBER 3**  
+**GROUP MEMBERS:**  
+**ABHISHEK TIWARI - 2024510065**  
+**DEEPAK YADAV - 2024510069**
+
+---
 
 ```markdown
 # Project Collection
 
-This repository contains various projects that showcase different concepts in software development and machine learning.
 
 ---
 
@@ -19,10 +25,9 @@ This repository contains various projects that showcase different concepts in so
    npm start
 
 2. Navigate to the `frontend` directory:
-   ```bash
    cd frontend
    npm run dev
-   ```
+   
 
 ---
 
