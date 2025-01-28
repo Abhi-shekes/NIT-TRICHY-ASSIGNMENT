@@ -7,6 +7,8 @@
 
 This repository contains various projects that showcase different concepts in software development and machine learning.
 
+---
+
 ## Blog (Blogging Folder)
 
 **Problem Statement**: Build a Dynamic Blogging Platform
@@ -113,3 +115,5 @@ This repository contains various projects that showcase different concepts in so
    ```
 
 ---
+```
+
