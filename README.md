@@ -3,7 +3,6 @@
 
 
 
-markdown
 # Project Collection
 
 **Group Number**: 3  
