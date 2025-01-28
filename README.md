@@ -15,7 +15,11 @@
 ## Blog (Blogging Folder)
 
 **Problem Statement**: Build a Dynamic Blogging Platform  
-[YouTube Link](https://www.youtube.com/watch?v=Gy1JHkTzY3M)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Gy1JHkTzY3M" target="_blank">
+    <img src="https://img.youtube.com/vi/Gy1JHkTzY3M/0.jpg" alt="Working Video">
+  </a>
+</p>  
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
@@ -33,7 +37,11 @@ bash
 ## Bookmark Management (Bookmark Folder)
 
 **Problem Statement**: Create a Smart Bookmark Management System  
-[YouTube Link](https://www.youtube.com/watch?v=Y2rZSqlf3KM)  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Y2rZSqlf3KM" target="_blank">
+    <img src="https://img.youtube.com/vi/Y2rZSqlf3KM/0.jpg" alt="Working Video">
+  </a>
+</p>  
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
@@ -51,6 +59,11 @@ bash
 ## Translation Tool
 
 **Problem Statement**: Build a Multi-Language Translation Tool  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JxBt8GJQpgM&ab_channel=DeepakKumar" target="_blank">
+    <img src="https://img.youtube.com/vi/JxBt8GJQpgM/0.jpg" alt="Working Video">
+  </a>
+</p>  
 
 ### Steps to Run:
 1. Navigate to the `frontend` directory:
