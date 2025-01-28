@@ -91,7 +91,6 @@ bash
 ## Fraud Transaction Detection
 
 **Problem Statement**: Detect Fraudulent Transactions  
-[YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 ### Steps to Run:
 1. Navigate to the `Fraudulent-Transactions-Prediction` directory:
