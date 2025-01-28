@@ -13,12 +13,11 @@ This repository contains various projects that showcase different concepts in so
 
 **Problem Statement**: Build a Dynamic Blogging Platform
 
-### Steps to Run:
+## Steps to Run:
 1. Navigate to the `backend` directory:
-   ```bash
    cd backend
    npm start
-   ```
+
 2. Navigate to the `frontend` directory:
    ```bash
    cd frontend
