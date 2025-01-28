@@ -15,7 +15,7 @@
 ## Blog (Blogging Folder)
 
 **Problem Statement**: Build a Dynamic Blogging Platform  
-[YouTube Link](https://www.youtube.com/watch?v=Y2rZSqlf3KM))  
+[YouTube Link](https://www.youtube.com/watch?v=Gy1JHkTzY3M)
 
 ### Steps to Run:
 1. Navigate to the `backend` directory:
